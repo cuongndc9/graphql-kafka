@@ -21,7 +21,4 @@ yarn start:dev
 
 ![demo](./images/demo.gif)
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🧑‍💻
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nDiscomfort is the currency of your dreams.\n🐶\n<!-- INSPIRATIONAL_QUOTE_END -->

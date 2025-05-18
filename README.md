@@ -21,3 +21,8 @@ yarn start:dev
 
 ![demo](./images/demo.gif)
 
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Action beats perfection.
+🦄
+<!-- INSPIRATIONAL_QUOTE_END -->

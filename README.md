@@ -23,6 +23,6 @@ yarn start:dev
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
+Be a lifelong learner, not a know-it-all.
 👻
 <!-- INSPIRATIONAL_QUOTE_END -->

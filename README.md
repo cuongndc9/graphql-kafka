@@ -23,5 +23,5 @@ yarn start:dev
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
